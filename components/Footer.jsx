@@ -7,7 +7,9 @@ const Footer = () => {
       <p>2022 Triniti Realm - All Rights Reserved</p>
       <p className="icons">
         <AiFillInstagram />
-        <AiOutlineTwitter />
+        <a href="https://twitter.com/async_dime" target="_blank" rel="noopener noreferrer">
+          <AiOutlineTwitter />
+        </a>
       </p>
     </div>
   );
